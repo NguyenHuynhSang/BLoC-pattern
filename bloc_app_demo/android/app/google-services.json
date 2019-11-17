@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "250700986038",
+    "firebase_url": "https://bloc-demo.firebaseio.com",
+    "project_id": "bloc-demo",
+    "storage_bucket": "bloc-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250700986038:android:a1f702d32ceb7cc2739817",
+        "android_client_info": {
+          "package_name": "com.example.bloc_app_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250700986038-8f521e03g27jmqtt3qdqt2mttfa7jmch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCONlgFJmF0Sm3McFYROKMmgE9IfTp5CsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250700986038-8f521e03g27jmqtt3qdqt2mttfa7jmch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
